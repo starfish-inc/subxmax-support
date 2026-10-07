@@ -32,6 +32,9 @@ inouehide@gmail.com</p>
 Google LLC（Google Gemini API）<br>
 エンドポイント: https://generativelanguage.googleapis.com</p>
 
+<p><strong>【中継サーバーについて】</strong><br>
+AI機能のデータは、当アプリの中継サーバー（Cloudflare, Inc. のサービス上で運用）を経由して Google LLC へ送信されます。中継サーバーは送信内容（走行データ・入力内容・AIの応答）を保存しません。不正利用を防ぎ利用回数を集計するため、端末ごとの匿名の識別子（Apple の App Attest 機能による。氏名・メールアドレス等は含みません）と利用回数のみを記録します。</p>
+
 <p><strong>【AI機能①：AIコーチ機能】</strong><br>
 送信されるデータ：</p>
 <ul>
@@ -78,4 +81,4 @@ Google LLC（Google Gemini API）<br>
   <li>AI機能を除き、いかなる第三者にもユーザーデータを共有しません</li>
 </ul>
 
-<p><small>最終更新日: 2026年4月18日</small></p>
+<p><small>最終更新日: 2026年10月7日</small></p>
